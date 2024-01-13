@@ -200,12 +200,12 @@ a {
 
 .place-post {
     display: flex;
-    /* flex-wrap: wrap; */
 }
 .sticker {
-    width: 100%;
-    /* width: 216px;
+    
     height: 60px;
+    /* width: 216px;
+    
     flex-shrink: 0;
     border-radius: 12px;
     background: #FFF; */
